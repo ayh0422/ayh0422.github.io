@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Yonghyun An"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""Data Analytics, Python, Statistics, Machine Learning""
+  bio              : "Data Analytics, Python, Statistics, Machine Learning"
   location         : "Seoul, Korea"
   email            : "ayh0422@gmail.com
   links:
