@@ -20,7 +20,7 @@ title                    : "데이터분석가의 공부방"
 title_separator          : "-"
 subtitle                 : "Data Analytics, Python, Statistics, Machine Learning"
 name                     : "Yonghyun An"
-description              : "Description?"
+description              : # "Description?"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Yonghyun An"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : ""Data Analytics, Python, Statistics, Machine Learning""
+  location         : # "Somewhere"
+  email            : "ayh0422@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:ayh0422@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
