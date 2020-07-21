@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "데이터분석가의 공부방"
 title_separator          : "-"
 subtitle                 : "Data Analytics, Python, Statistics, Machine Learning"
-name                     : "Yonghyun An"
+name                     : "KP.Max"
 description              : # "Description?"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yonghyun An"
+  name             : "KP.Max"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analytics, Python, Statistics, Machine Learning"
   location         : "Seoul, Korea"
